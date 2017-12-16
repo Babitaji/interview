@@ -2085,6 +2085,51 @@ body {
 .cid-qDGeh1Wedk .section-text B {
   color: #ff3366;
 }
+.cid-qDWlq6j7XX {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #efefef;
+}
+.cid-qDWlq6j7XX .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qDWlq6j7XX .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qDWlq6j7XX .media-container-row .img-item img {
+  width: 100%;
+}
+.cid-qDWlq6j7XX .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qDWlq6j7XX .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qDWlq6j7XX .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qDWlq6j7XX .img-item {
+    width: 100% !important;
+  }
+  .cid-qDWlq6j7XX .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-qDWlq6j7XX P {
+  text-align: left;
+}
 .cid-qDLMp7tdm0 {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -2258,4 +2303,261 @@ body {
 }
 .cid-qDLPnanAG3 .section-text DIV {
   text-align: left;
+}
+.cid-qDWpAByv22 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpAByv22 .mbr-text,
+.cid-qDWpAByv22 blockquote {
+  color: #767676;
+}
+.cid-qDWpAByv22 .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpAByv22 .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpAP1LSS {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpAP1LSS .mbr-text,
+.cid-qDWpAP1LSS blockquote {
+  color: #767676;
+}
+.cid-qDWpAP1LSS .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpAP1LSS .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpAXg05v {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpAXg05v .mbr-text,
+.cid-qDWpAXg05v blockquote {
+  color: #767676;
+}
+.cid-qDWpAXg05v .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpAXg05v .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpB4HuD0 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpB4HuD0 .mbr-text,
+.cid-qDWpB4HuD0 blockquote {
+  color: #767676;
+}
+.cid-qDWpB4HuD0 .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpB4HuD0 .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpBcdNDh {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpBcdNDh .mbr-text,
+.cid-qDWpBcdNDh blockquote {
+  color: #767676;
+}
+.cid-qDWpBcdNDh .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpBcdNDh .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpBjeVPc {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpBjeVPc .mbr-text,
+.cid-qDWpBjeVPc blockquote {
+  color: #767676;
+}
+.cid-qDWpBjeVPc .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpBjeVPc .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpBsuyzk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpBsuyzk .mbr-text,
+.cid-qDWpBsuyzk blockquote {
+  color: #767676;
+}
+.cid-qDWpBsuyzk .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpBsuyzk .mbr-text P {
+  text-align: left;
+}
+.cid-qDWpByWdqd {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qDWpByWdqd .mbr-text,
+.cid-qDWpByWdqd blockquote {
+  color: #767676;
+}
+.cid-qDWpByWdqd .mbr-text {
+  color: #00896b;
+  text-align: left;
+}
+.cid-qDWpByWdqd .mbr-text P {
+  text-align: left;
+}
+.cid-qDWs87XhdM {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWs87XhdM .mbr-text,
+.cid-qDWs87XhdM blockquote {
+  color: #767676;
+}
+.cid-qDWs87XhdM B {
+  color: #232323;
+}
+.cid-qDWs87XhdM SPAN {
+  color: #232323;
+}
+.cid-qDWslkmFln {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWslkmFln .mbr-text,
+.cid-qDWslkmFln blockquote {
+  color: #767676;
+}
+.cid-qDWslkmFln B {
+  color: #232323;
+}
+.cid-qDWslkmFln SPAN {
+  color: #232323;
+}
+.cid-qDWslwrxdZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWslwrxdZ .mbr-text,
+.cid-qDWslwrxdZ blockquote {
+  color: #767676;
+}
+.cid-qDWslwrxdZ B {
+  color: #232323;
+}
+.cid-qDWslwrxdZ SPAN {
+  color: #232323;
+}
+.cid-qDWsLo0eJ8 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWsLo0eJ8 .mbr-text,
+.cid-qDWsLo0eJ8 blockquote {
+  color: #767676;
+}
+.cid-qDWsLo0eJ8 B {
+  color: #232323;
+}
+.cid-qDWsLo0eJ8 SPAN {
+  color: #232323;
+}
+.cid-qDWsLBTAs3 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWsLBTAs3 .mbr-text,
+.cid-qDWsLBTAs3 blockquote {
+  color: #767676;
+}
+.cid-qDWsLBTAs3 B {
+  color: #232323;
+}
+.cid-qDWsLBTAs3 SPAN {
+  color: #232323;
+}
+.cid-qDWsLLkW4Q {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWsLLkW4Q .mbr-text,
+.cid-qDWsLLkW4Q blockquote {
+  color: #767676;
+}
+.cid-qDWsLLkW4Q B {
+  color: #232323;
+}
+.cid-qDWsLLkW4Q SPAN {
+  color: #232323;
+}
+.cid-qDWt7MjaLU {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qDWt7MjaLU .counter-container {
+  color: #767676;
+}
+.cid-qDWt7MjaLU .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-qDWt7MjaLU .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-qDWt7MjaLU .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-qDWt7MjaLU .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.cid-qDWt7MjaLU .mbr-text LI {
+  color: #232323;
 }
