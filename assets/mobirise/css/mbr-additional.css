@@ -3157,65 +3157,28 @@ body {
 .cid-qDXLFqOuqw .mbr-text {
   color: #232323;
 }
-.cid-qDX0QQzo6w {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-qDXPygMxR7 {
+  background: #ffffff;
 }
-.cid-qDX0QQzo6w .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
+.cid-qDXPygMxR7 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qDXPygMxR7 .mbr-figure {
   margin: 0 auto;
 }
-.cid-qDX0QQzo6w .section-text {
-  padding: 2rem 0;
-  text-align: left;
+.cid-qDXPygMxR7 figcaption {
+  position: relative;
 }
-.cid-qDX0QQzo6w .inner-container {
-  margin: 0 auto;
+.cid-qDXPygMxR7 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-qDX0QQzo6w .inner-container {
+  .cid-qDXPygMxR7 .image-block {
     width: 100% !important;
   }
-}
-.cid-qDX0QQzo6w .section-text DIV {
-  text-align: left;
-}
-.cid-qDXMd2Q7Pz {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qDXMd2Q7Pz .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qDXMd2Q7Pz .section-text {
-  padding: 2rem 0;
-  color: #232323;
-  text-align: left;
-}
-.cid-qDXMd2Q7Pz .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qDXMd2Q7Pz .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qDXMuRtWTk {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qDXMuRtWTk .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-qDWFJ3e4Pf {
   padding-top: 15px;
@@ -5055,4 +5018,27 @@ body {
 }
 .cid-qDX00D7oFT .mbr-text UL {
   color: #232323;
+}
+.cid-qDXPOJw2Pd {
+  background: #ffffff;
+}
+.cid-qDXPOJw2Pd .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qDXPOJw2Pd .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qDXPOJw2Pd figcaption {
+  position: relative;
+}
+.cid-qDXPOJw2Pd figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qDXPOJw2Pd .image-block {
+    width: 100% !important;
+  }
 }
